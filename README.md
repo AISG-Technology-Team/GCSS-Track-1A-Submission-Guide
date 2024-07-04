@@ -42,7 +42,7 @@ You are not allowed to submit another attempt while there is an active attempt t
 
 ### Submission Selection
 
-Among all the submissions across the team, you must select up to **two** scored submissions for the final decision on entrance into the Track 1B, of which the criteria is explained in the upcoming section.
+Among all the submissions across the team, you must select up to **two** scored submissions for the final decision on entrance into the [Track 1B](https://github.com/AISG-Technology-Team/GCSS-Track-1B-Submission-Guide), of which the criteria is explained in the upcoming section.
 
 ## Evaluation Metric Details
 
@@ -67,11 +67,11 @@ The sort order on the public leaderboard will be in descending order on the Harm
 
 A team's entry on the public leaderboard is based on their **best performing submission regardless of choice** using the same public leaderboard ordering scheme.
 
-Entrance into Track 1B is **not** based on the order of the public leaderboard.
+Entrance into [Track 1B](https://github.com/AISG-Technology-Team/GCSS-Track-1B-Submission-Guide) is **not** based on the order of the public leaderboard.
 
 ### Private Leaderboard
 
-The private leaderboard provides the definitive criteria for selection of the top 10 teams for entrance into Track 1B.
+The private leaderboard provides the definitive criteria for selection of the top 10 teams for entrance into [Track 1B](https://github.com/AISG-Technology-Team/GCSS-Track-1B-Submission-Guide).
 
 The private leaderboard is not visible by anyone except for staff, but the scores that are shown there include:
 1. The ASR for `Llama-2-7b-chat-hf`;
@@ -84,5 +84,5 @@ The sort order of the private leaderboard will be in descending order on the Har
 
 A team's entry on the private leaderboard is based on their **best peforming submission from the two selected scored submissions** using the same private leaderboard ordering scheme.
 
-Entrance into Track 1B is **based** on the order of the private leaderboard, with the top 10 eligible teams on the private leaderboard being extended an invitation for Track 1B.
+Entrance into [Track 1B](https://github.com/AISG-Technology-Team/GCSS-Track-1B-Submission-Guide) is **based** on the order of the private leaderboard, with the top 10 eligible teams on the private leaderboard being extended an invitation for Track 1B.
 
